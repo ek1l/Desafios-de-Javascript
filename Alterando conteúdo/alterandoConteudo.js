@@ -1,0 +1,1 @@
+const pegarElemento = document.querySelector('h1').innerText = "Mudei o conteúdo"

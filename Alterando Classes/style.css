@@ -1,0 +1,9 @@
+.desativado {
+    background-color: black;
+    color: white;
+}
+
+.desativado.ativo {
+    color: black;
+    background-color: red;
+}
