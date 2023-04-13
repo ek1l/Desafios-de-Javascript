@@ -1,0 +1,16 @@
+#movendo {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    bottom: 0;
+    background-color: red;
+}
+
+
+.selecionado {
+    background-color: #ccc;
+}
+
+li {
+    cursor: pointer;
+}
